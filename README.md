@@ -1,4 +1,4 @@
-# BrickGenratorTool - Unity
+# BrickGeneratorTool - Unity
 
 This is a tool made for Unity to spawn bricks for a brickbreaker style game.
 
